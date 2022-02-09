@@ -1,2 +1,2 @@
 # Ace-in-the-hole
-card counting for blackjack with python
+GUI blackjack card counting with python
